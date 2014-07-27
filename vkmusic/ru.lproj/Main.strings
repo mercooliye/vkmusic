@@ -1,0 +1,66 @@
+
+/* Class = "IBUILabel"; text = "Artist"; ObjectID = "1H3-eg-gmq"; */
+"1H3-eg-gmq.text" = "Artist";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "3Bm-av-BgA"; */
+"3Bm-av-BgA.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "3JF-r5-zB8"; */
+"3JF-r5-zB8.text" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "8Eq-Gl-fUs"; */
+"8Eq-Gl-fUs.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "00 00"; ObjectID = "9Vg-0Y-Q2e"; */
+"9Vg-0Y-Q2e.text" = "00 00";
+
+/* Class = "IBUILabel"; text = "timeend"; ObjectID = "K51-fi-trz"; */
+"K51-fi-trz.text" = "timeend";
+
+/* Class = "IBUITextField"; placeholder = "Введите название песни"; ObjectID = "Lbm-ao-HYl"; */
+"Lbm-ao-HYl.placeholder" = "Введите название песни";
+
+/* Class = "IBUILabel"; text = "time"; ObjectID = "NvP-Kj-56b"; */
+"NvP-Kj-56b.text" = "time";
+
+/* Class = "IBUITabBarItem"; title = "Сохраненные"; ObjectID = "VAW-JE-AGP"; */
+"VAW-JE-AGP.title" = "Сохраненные";
+
+/* Class = "IBUITabBarItem"; title = "Сохраненные"; ObjectID = "Y12-1p-yQa"; */
+"Y12-1p-yQa.title" = "Сохраненные";
+
+/* Class = "IBUILabel"; text = "artist"; ObjectID = "a7n-JU-uIg"; */
+"a7n-JU-uIg.text" = "artist";
+
+/* Class = "IBUIBarButtonItem"; title = "Назад"; ObjectID = "gCD-lG-EUb"; */
+"gCD-lG-EUb.title" = "Назад";
+
+/* Class = "IBUILabel"; text = "1"; ObjectID = "hTC-t4-ua4"; */
+"hTC-t4-ua4.text" = "1";
+
+/* Class = "IBUILabel"; text = "Ttitle"; ObjectID = "jL3-S0-fC8"; */
+"jL3-S0-fC8.text" = "Ttitle";
+
+/* Class = "IBUILabel"; text = "Artist"; ObjectID = "kZB-Mq-UTO"; */
+"kZB-Mq-UTO.text" = "Artist";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "sKz-b5-8p9"; */
+"sKz-b5-8p9.normalTitle" = "Button";
+
+/* Class = "IBUITabBarItem"; title = "Главная"; ObjectID = "tPH-bv-wEZ"; */
+"tPH-bv-wEZ.title" = "Главная";
+
+/* Class = "IBUITabBarItem"; title = "Онлайн"; ObjectID = "v7I-s3-Xln"; */
+"v7I-s3-Xln.title" = "Онлайн";
+
+/* Class = "IBUIButton"; normalTitle = "Play"; ObjectID = "vC1-yr-xM2"; */
+"vC1-yr-xM2.normalTitle" = "Play";
+
+/* Class = "IBUILabel"; text = "00 00"; ObjectID = "ww0-2B-VVF"; */
+"ww0-2B-VVF.text" = "00 00";
+
+/* Class = "IBUILabel"; text = "name"; ObjectID = "zIt-Sy-5q4"; */
+"zIt-Sy-5q4.text" = "name";
+
+/* Class = "IBUIBarButtonItem"; title = "Назад"; ObjectID = "zLF-Gs-cFn"; */
+"zLF-Gs-cFn.title" = "Назад";
